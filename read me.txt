@@ -1,0 +1,10 @@
+For Naive Bayes, Gausses, logistic-regression, KNN:
+1.open each .m files in each folders using MATLAB 2016.
+
+2.run codes and view results.
+
+3.For PCA, LDA, open the relative folder and use matlab to open and run PCA_KNN.m and LDA.m relatively
+
+4.For SVM, open SVM folder, install libSVM package for matlab and then use matlab to open and run SVM.m
+
+5.For CNN, install tensorflow and keras to your coomputer and use pycharm compiler to open and run CNN
